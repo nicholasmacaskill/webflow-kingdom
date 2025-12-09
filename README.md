@@ -1,5 +1,5 @@
 # webflow-kingdom
-Gamified social network for Webflow professionals
+Gamified social network for webflow professionals
 
 **Webflow Kingdom** is a gamified social network and marketplace for Webflow professionals. It connects **pre-vetted teams** of complementary skills (designers, Webflow developers, marketing specialists, growth engineers) with high-value projects and retainers, prioritizing **smart team–project matching** and **Web3-powered Solana transactions** from day one.
 
