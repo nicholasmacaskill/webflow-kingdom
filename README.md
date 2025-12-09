@@ -1,8 +1,7 @@
 # webflow-kingdom
 Gamified social network for Webflow professionals
 
-
-**Webflow Kingdom** is a gamified social network and marketplace for Webflow professionals. Unlike Upwork/Fiverr, it connects **pre-vetted teams** of complementary skills (designers + devs + AI marketers) for high-value retainer projects ($5k-50k/mo). Simplifies the entire value chain through gamification, Web3 verification, Solana payments, community team-building**, algorithmic cohesion analysis, and team trading.
+**Webflow Kingdom** is a gamified social network and marketplace for Webflow professionals. It connects **pre-vetted teams** of complementary skills (designers, Webflow developers, marketing specialists, growth engineers) with high-value projects and retainers, prioritizing **smart team–project matching** and **Web3-powered Solana transactions** from day one.
 
 ## 📋 Table of Contents
 
@@ -22,116 +21,102 @@ Gamified social network for Webflow professionals
 
 ## About the Project
 
-**The Problem**: **70% of Webflow projects overrun budgets and 40% miss deadlines** [Webflow University][Agency Reports] due to communication gaps between siloed roles. Clients expect "one person does everything" but complex retainers need **4+ specialized roles** (front-facing account manager, designers, dev link, growth engineer). Solo freelancers burn out on retainers; agencies struggle with scope creep, revision loops, talent retention, and trust erosion. Kingdom delivers **pre-assembled, cohesive teams** with clear roles that solve these systematically.
+**The Problem**: Complex Webflow projects and ongoing retainers frequently **overrun budgets and miss deadlines** because clients assume one person can “do everything,” while the work actually requires a coordinated group of specialists. Misaligned expectations, ad‑hoc communication, and fragile payment flows lead to scope creep, stalled projects, and eroded trust on both sides.
 
-**Webflow Kingdom Solution**: 
-- **Pre-grouped + community-built teams** based on complementary skills
-- **Gamified progression**: Teams level up through verified deliverables **+ cohesion exercises**
-- **Algorithmic cohesion**: Private feedback → chemistry scores → team optimization
-- **Team trading market**: Swap teammates based on cohesion data
-- **Web3 trust**: Blockchain-verified reviews + deliverable proofs
-- **Simplified everything**: Project management, Solana payments, AI matching, **team bonding**
-- **Hybrid networking**: Online exercises + in-person meetups
+**Webflow Kingdom Solution**: Start with **matching and money**. Project briefs are structured and scored, then matched to **pre‑vetted teams** whose skills, history, and cohesion fit the work. Engagements are locked in through **on‑chain Solana transactions** (escrow, milestones, payouts) and **Web3‑verified deliverables**, so expectations, ownership, and payment terms are clear from the outset. Around this, Kingdom layers gamified progression, team‑building tools, and an algorithmic cohesion and team‑trading system.
 
 ## 🎯 Customers
 
 | Customer Type | Needs | Kingdom Value |
 |---------------|-------|---------------|
-| **Growth-Stage Startups** | Scalable Webflow + marketing automation | AI-accelerated retainers ($10k/mo) |
-| **Mid-Market SaaS** | Complex apps + CRO optimization | Dedicated Webflow squads |
-| **E-commerce Brands** | High-traffic stores + paid acquisition | Design/dev/marketing teams |
-| **Marketing Agencies** | Webflow implementation capacity | White-label Kingdom teams |
-| **Direct-to-Consumer Brands** | Landing pages + conversion funnels | Rapid deployment squads |
-| **Webflow Agencies** | Overflow capacity + specialized skills | Team augmentation |
+| Growth‑stage startups | Reliable Webflow + marketing execution on retainers | Curated squads matched to briefs + on‑chain escrow |
+| Mid‑market SaaS | Complex Webflow apps, CRO, experiments | Specialist teams with proven history |
+| E‑commerce & DTC | High‑converting storefronts and landing pages | Design/dev/marketing teams tied to performance milestones |
+| Marketing agencies | Webflow capacity without full‑time hires | White‑label teams + simple Solana-powered payouts |
+| Webflow agencies | Overflow and specialist gaps | Augmentation squads with verified track records |
 
 ## 📊 Market Opportunity
 
-| Reality | Webflow Kingdom Advantage |
-|---------|---------------------------|
-| **70% projects over budget** | **Role-defined teams** |
-| **40% miss deadlines** | **Single team voice** |
-| **Fragmented solo gigs** | **Curated + tradeable teams** |
-| **20-30% platform fees** | **5% + Solana (near-zero fees)** |
-| **Manual coordination** | **AI team matching + cohesion tools** |
-| **No verification** | **Web3-verified deliverables/reviews** |
-| **Static teams** | **Dynamic trading + cohesion optimization** |
-
-**$1.2B opportunity**: Webflow agencies average $20k/project. 10% market share = $120M platform volume.
+| Reality today | Webflow Kingdom offers |
+|--------------|------------------------|
+| Generic freelancer marketplaces | Niche focus: Webflow ecosystems and adjacent growth work |
+| Manual, guess‑based matching | Structured briefs + team scoring + matching logic |
+| Fragile off‑platform payments | On‑chain Solana escrow, milestones, and payouts |
+| No verified team history | Web3‑anchored deliverable and review records |
+| Static, misaligned teams | Cohesion scoring + optional team trading over time |
 
 ## ✨ Core Features
 
-### Team Kingdom (Social + Marketplace)
-🏰 Team Profiles: "Level 7 Webflow Squad" (Designer + Dev + AI Marketer)
-⚔️ Gamification: XP, badges, leaderboards, kingdom ranks
-💎 Portfolio Showcases: Web3-verified project proofs
-🔗 Client Matching: AI-powered retainer project briefs
+### Project–Team Matching (First‑class)
 
-text
+- **Structured project briefs**: Budget, timeline, vertical, Webflow complexity, integrations, marketing goals.
+- **Team capability profiles**: Skills, past niches, tech depth, price bands, preferred engagement models.
+- **Matching engine**:
+  - Scores fit between projects and teams.
+  - Surfaces 3–5 best‑fit teams instead of a raw marketplace list.
+  - Considers cohesion and past performance, not just individual skills.
+- **Pre‑engagement lobby**:
+  - Shortlisted teams can ask clarifying questions.
+  - Clients can compare offers with standardized terms.
 
-### Project Management (Simplified)
-📋 Kanban boards, milestones, deliverables
-✅ Web3 verification: Client signs off → on-chain proof
-💰 Solana payments: Instant, global, 0.0001 SOL fees
+### Web3 Transactions (From Day 1)
 
-text
+- **Solana escrow**:
+  - Client funds milestones into a Solana program-controlled escrow.
+  - Funds only release when deliverables are verified.
+- **Milestone payments**:
+  - Each milestone has an on‑chain reference and amount.
+  - Partial payouts possible if scope evolves but both sides agree.
+- **Web3‑verified deliverables**:
+  - Hashes of key artifacts (Figma exports, Webflow cloneable IDs, docs) stored on-chain or anchored.
+  - Review events (approved/rejected) signed and associated with both client and team.
+- **Reputation layer**:
+  - Teams build an immutable record of completed work and resolution history.
+  - Clients also accumulate a reputation score for clarity, fairness, and timely approvals.
 
-## 👥 Team Building Features
+## 👑 Team Kingdom (Social + Marketplace)
+
+- **Team profiles**: “Level 7 Webflow Squad” with clear role breakdown (design, dev, growth, ops).
+- **Gamification**: XP for completed milestones, badges for categories (SaaS, e‑com, launches, migrations).
+- **Portfolio showcases**: Link to live Webflow builds plus on‑chain verification of who delivered what.
+- **Kingdom feed**: New briefs, matched opportunities, milestone wins, and notable launches.
+
+## 👥 Team Building
 
 ### Online Cohesion Exercises
-🎯 Forge Bonds: Anonymous feedback rounds between teammates (8 dimensions)
-🧠 Skill Sync: Weekly 15-min exercises matching strengths to roles
-🔥 Kingdom Calls: Live video problem-solving sessions (Daily.co)
-📊 Chemistry Score: Algorithmic analysis of private feedback data
 
-text
+- **Forge Bonds**: Regular, anonymous feedback rounds on communication, reliability, strategy, collaboration.
+- **Skill Sync**: Lightweight exercises to clarify who owns which part of the stack and where each member is strongest.
+- **Kingdom Calls**: Live video working sessions for deep dives on architecture, timelines, and scope.
+- **Chemistry Score**: Aggregated cohesion metric that factors into team–project matching.
 
-### Networking Hub - **Building Moats**
-🌐 Building Moats: Team formation chat rooms by skillset
-🎉 Virtual Meetups: Weekly Webflow build-alongs + happy hours
-📍 In-Person Chapters: City-based Webflow Kingdom meetups
-🤝 Mentorship Ladder: Senior teams coach junior squads
+### Networking Hub – Building Moats
 
-### Vetting & Matching
-✅ Skill Verification: Webflow portfolio + cloneable review
-🎖️ Team Auditions: 48hr paid test projects
-⚖️ Chemistry Matching: Personality + workstyle + cohesion algorithms
+- **Building Moats spaces**: Topic or skill‑based rooms (e.g., “SaaS dashboards”, “CMS monsters”, “animations”).
+- **Virtual meetups**: Group sessions, teardown nights, and brief reviews.
+- **Local chapters**: Optional in‑person meetups coordinated per city or region.
+- **Mentorship ladder**: Senior squads helping newer teams reach enterprise‑level delivery.
 
 ## 🔄 Team Trading System
 
-### Algorithmic Cohesion Analysis
-📈 Private Feedback Engine: Anonymous 1-10 ratings on 8 dimensions
-
-Communication, reliability, creativity, speed, collaboration
-
-Role fit, conflict resolution, strategic alignment
-
-🔬 Chemistry Algorithm:
-
-Team Cohesion Score (0-100) → Public team badge
-
-Individual Fit Score → Trade recommendations
-
-Predictive decay → "This team cohesion dropping 12%"
-
-💹 Trading Market:
-
-"Level 6 Dev seeking Level 7 Designer squad"
-
-Solana micro-payments for smooth transitions
-
-Web3-verified trade history
-
-AI-suggested swaps based on cohesion data
-
-text
+- **Private feedback engine**:
+  - Teammates rate each other across several dimensions after projects.
+  - Data stays private to the algorithm; only aggregate signals surface.
+- **Cohesion‑aware trading**:
+  - When fit repeatedly scores low, the system can suggest alternative teams.
+  - Freelancers can opt in to a “transfer window” where they join squads with better chemistry.
+- **Safeguarded transitions**:
+  - In‑flight project transitions must respect escrow and milestones.
+  - On‑chain history keeps movement transparent while preserving reputation.
 
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js 18+
-- npm/yarn/pnpm
-- [Supabase account](https://supabase.com)
-- Solana wallet (for testing)
+- npm, pnpm, or yarn
+- Supabase project
+- Solana wallet (e.g., Phantom) for test transactions
 
 ### Installation
 
@@ -148,86 +133,75 @@ text
 NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
-OPENAI_API_KEY=your_openai_key
+SOLANA_PROGRAM_ID=your_solana_program_id
+OPENAI_API_KEY=your_openai_key # if using AI-assisted matching/copy
 
 text
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology | Used For |
-|-------|------------|----------|
-| **Frontend** | Next.js 15 + React + TypeScript | Team profiles, trading market, video rooms |
-| **Styling** | Tailwind + shadcn/ui | Kingdom-themed UI |
-| **Backend** | Next.js API + Supabase | Teams, cohesion algorithms, trading |
-| **Video** | Daily.co | Kingdom Calls sessions |
-| **Web3** | @solana/web3.js + Anchor | Payments, verification, trades |
-| **Real-time** | Supabase Realtime + Liveblocks | Team chat, live exercises |
-| **ML/Analysis** | Vercel AI + custom cohesion models | Feedback analysis, trade recommendations |
-| **Database** | Supabase Postgres + Edge Functions | Teams, feedback, cohesion data |
-| **Deployment** | Vercel | Global CDN, preview deploys |
+| Layer        | Technology             | Purpose                                  |
+|-------------|------------------------|------------------------------------------|
+| Frontend    | Next.js + React + TS   | App shell, profiles, matching UI         |
+| Styling     | Tailwind + shadcn/ui   | Kingdom-themed interface                 |
+| Backend     | Next.js API + Supabase | Auth, data models, matching logic        |
+| Web3        | Solana + @solana/web3.js + Anchor | Escrow, milestones, reputation   |
+| Video       | Daily.co               | Kingdom Calls team sessions              |
+| Realtime    | Supabase Realtime      | Chats, notifications, live lobbies       |
+| Analysis    | Custom scoring + LLMs  | Fit scoring, recommendations             |
+| Database    | Supabase Postgres      | Users, teams, projects, feedback         |
+| Hosting     | Vercel                 | Deployment and edge functions            |
 
 ## 🗺️ Development Plan
 
-### Phase 1 – Kingdom MVP (1 week)
-✅ Next.js + Tailwind kingdom theme
-✅ Team profiles + skill matching
-✅ Basic gamification (XP, levels)
-✅ Supabase: users, teams, projects
+**Phase 1 – Matching & Web3 Core (highest priority)**  
+- Implement project brief model and team capability profiles.  
+- Build first version of the matching engine (rule‑based + scoring).  
+- Implement Solana escrow program, basic milestone contract, and client–team funding flow.  
+- Minimal UI for: create brief → get matched teams → accept → escrow funded.
 
-text
+**Phase 2 – Team Profiles & Reputation**  
+- Team and user profile pages with role breakdowns and histories.  
+- Integrate Web3‑verified deliverable hashes and milestone approval events.  
+- Basic reputation scores for teams and clients surfaced in matching.
 
-### Phase 2 – Team Building Core (2 weeks)
-✅ Building Moats (team formation chats)
-✅ Forge Bonds + Skill Sync exercises
-✅ Kingdom Calls scheduling
-✅ Basic cohesion scoring
+**Phase 3 – Team Building & Cohesion**  
+- Launch Forge Bonds, Skill Sync, Chemistry Score.  
+- Add Kingdom Calls and Building Moats spaces.  
+- Begin feeding cohesion metrics back into the matching engine.
 
-text
+**Phase 4 – Team Trading & Advanced Matching**  
+- Implement transfer window, trade suggestions, and secure transitions.  
+- Enhance scoring model with more history and feedback dimensions.  
+- Add filters and controls for clients who prefer new teams vs. veteran squads.
 
-### Phase 3 – Cohesion Algorithms (2 weeks)
-✅ Private feedback engine (8 dimensions)
-✅ Chemistry Score algorithm
-✅ Predictive team decay detection
-✅ Trade recommendation system
-
-text
-
-### Phase 4 – Team Trading Market (2 weeks)
-✅ Trading marketplace UI
-✅ Solana escrow for team swaps
-✅ Web3-verified trade history
-✅ AI trade matching
-
-text
-
-### Phase 5 – Gamification + PM (2 weeks)
-✅ Leaderboards, badges, quests
-✅ Simplified Kanban + milestones
-✅ Client/freelancer dashboards
-✅ Tournament system
+**Phase 5 – Gamification & Tournaments**  
+- Leaderboards, badges, and quests.  
+- “Tournament briefs” where multiple teams compete on structured challenges.  
+- Deeper analytics dashboards for teams to see where they’re winning/lagging.
 
 ## 📱 Demo
 
-![Webflow Kingdom Teams](https://via.placeholder.com/1200x600/1a1a1a/ffffff?text=Webflow+Kingdom+Teams)
-![Team Trading Market](https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=Team+Trading+Market)
-![Chemistry Scores](https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=Cohesion+Analysis)
-*(Screenshots coming as kingdom UI is built)*
+*(Planned – to be updated once UI is built)*  
+- Project–Team Matching flow  
+- Solana escrow and milestone approval  
+- Team Chemistry dashboard
 
 ## 🤝 Contributing
 
-1. Fork the project
-2. `git checkout -b feature/cohesion-algorithm`
-3. `git commit -m 'feat: add 8-dimension feedback analysis'`
-4. `git push origin feature/cohesion-algorithm`
-5. Open Pull Request
+1. Fork the repo  
+2. Create a feature branch: `git checkout -b feature/matching-engine`  
+3. Commit changes: `git commit -m "feat: add initial project-team matching"`  
+4. Push: `git push origin feature/matching-engine`  
+5. Open a pull request
 
-### Development Commands
-npm run dev # localhost:3000
-npm run build # Production build
-npm run lint # Code quality
-npm run test # Unit tests
-npm run db:seed # Mock teams/feedback
-npm run cohesion # Test cohesion algorithms
-npm run solana:dev # Local Solana validator
+## 📄 License
 
-*Webflow's gamified team kingdom. Fixes 70% budget overruns. Cohesive squads. Web3 trust.*
+MIT – see `LICENSE`.
+
+## 🙋 Contact
+
+Creator: YOUR_NAME / YOUR_GITHUB_USERNAME  
+Issues: open an issue in this repo
+
+---
