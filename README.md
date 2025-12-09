@@ -2,7 +2,7 @@
 Gamified social network for Webflow professionals
 
 
-**Webflow Kingdom** is a gamified social network and marketplace for Webflow professionals. Unlike Upwork/Fiverr, it connects **pre-vetted teams** of complementary skills (designers + devs + AI marketers) for high-value retainer projects ($5k-50k/mo). Simplifies the entire value chain through gamification, Web3 verification, Solana payments, **community team-building**, **algorithmic cohesion analysis**, and **team trading**.
+**Webflow Kingdom** is a gamified social network and marketplace for Webflow professionals. Unlike Upwork/Fiverr, it connects **pre-vetted teams** of complementary skills (designers + devs + AI marketers) for high-value retainer projects ($5k-50k/mo). Simplifies the entire value chain through gamification, Web3 verification, Solana payments, community team-building**, algorithmic cohesion analysis, and team trading.
 
 ## 📋 Table of Contents
 
