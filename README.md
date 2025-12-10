@@ -195,10 +195,6 @@ text
 4. Push: `git push origin feature/matching-engine`  
 5. Open a pull request
 
-## 📄 License
-
-MIT – see `LICENSE`.
-
 ## 🙋 Contact
 
 Creator: YOUR_NAME / YOUR_GITHUB_USERNAME  
