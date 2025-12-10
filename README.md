@@ -194,10 +194,3 @@ text
 3. Commit changes: `git commit -m "feat: add initial project-team matching"`  
 4. Push: `git push origin feature/matching-engine`  
 5. Open a pull request
-
-## 🙋 Contact
-
-Creator: YOUR_NAME / YOUR_GITHUB_USERNAME  
-Issues: open an issue in this repo
-
----
